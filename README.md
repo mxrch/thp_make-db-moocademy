@@ -2,7 +2,7 @@
 
 
 ## :mag: The content
-In these exercises, I had to create an **online learning platform**.
+In these exercises, I had to design a **database** for an **online learning platform**.
 * There are plenty of courses
 * Each course has a title and a description
 * Finally, each course has several lessons, which have a title and a body 
